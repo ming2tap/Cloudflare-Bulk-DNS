@@ -1,7 +1,7 @@
 # Cloudflare-Bulk-DNS
 cloudflare批量添加dns解析 Cloudflare adds DNS resolution in batches
 
-搭配https://www.itdog.cn/ping/ ping目标网站以的优选ip 以EdgeOne为例
+搭配https://www.itdog.cn/ping/ ping目标网站 以EdgeOne的优选ip为例
 
 ping eo.hw.072103.xyz 或edgeone.ai 可以拿到优选ip 再配合该脚本使用
 
